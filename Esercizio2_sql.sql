@@ -1,0 +1,8 @@
+--select * from products
+--select * from products where UnitsInStock >=40
+--select * from employees where city='london'
+--select * from orders details order by freight desc
+--select * from orders details where freight >= 90 and freight <=200 order by freight desc
+--select * from products where categoryID = 1
+--select * from [order details] where discount > 0
+--select * from orders where customerid = 'bottm' and freight > 50
